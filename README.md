@@ -33,3 +33,8 @@ npm-debug.log
 3. run in interactive mode -->     docker exec -it [CID] or [CN] bash
   
 ![Screenshot from 2023-05-19 08-51-20](https://github.com/webdev-ashishk/Quick-start-with-docker/assets/127021921/4493ece3-b457-4c30-81f5-4455fe40aab2)
+
+# Part-1
+![Screenshot from 2023-10-20 21-46-19](https://github.com/webdev-ashishk/Quick-start-with-docker/assets/127021921/88dd0b66-9308-4b11-9c90-672a739108bd)
+
+
